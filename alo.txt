@@ -1,1 +1,0 @@
-<_io.TextIOWrapper name='<stdin>' mode='r' encoding='cp1252'>
