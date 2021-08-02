@@ -1,1 +1,1 @@
-b'alo.txt\nhorhgf.cdsfsfdsfds
+b'alo.txt\n'
